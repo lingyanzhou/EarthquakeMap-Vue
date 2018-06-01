@@ -139,12 +139,14 @@ svg.earthquake-map {
   background-color: skyblue;
 }
 
-div.earthquake-map-messag {
-  opacity: 0.6;
-  color: white;
-  background-color: black;
-  position: absolute;
-  bottom: 0px;
+div.earthquake-map-message {
+  opacity: 0.6 !important;
+  color: white !important;
+  background-color: black !important;
+  position: absolute !important;
+  bottom: 0px !important;
+  left: 0px;
+  right:0px;
 }
 
 .graticule {

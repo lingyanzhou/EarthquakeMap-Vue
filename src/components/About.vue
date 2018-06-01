@@ -10,13 +10,13 @@
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">Github</h5>
       </div>
-      <p class="mb-1"><a href=""></a></p>
+      <p class="mb-1"><a href="https://github.com/lingyanzhou/EarthquakeMap-Vue/">https://github.com/lingyanzhou/EarthquakeMap-Vue/</a></p>
     </div>
     <div class="list-group-item list-group-item-action flex-column align-items-start">
       <div class="d-flex w-100 justify-content-between">
         <h5 class="mb-1">Github Page</h5>
       </div>
-      <p class="mb-1"><a href=""></a></p>
+      <p class="mb-1"><a href="https://lingyanzhou.github.io/EarthquakeMap-Vue/">https://lingyanzhou.github.io/EarthquakeMap-Vue/</a></p>
     </div>
   </div>
 </template>

@@ -2,6 +2,10 @@
 
 > A Vue.js project
 
+## Demo
+
+[Demo](https://lingyanzhou.github.io/EarthquakeMap-Vue/#/)
+
 ## Build Setup
 
 ``` bash

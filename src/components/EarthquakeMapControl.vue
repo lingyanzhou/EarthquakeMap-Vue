@@ -15,13 +15,13 @@
     <div class="form-group row">
       <label for="inputMinMag" class="col col-form-label">Min Magnitude</label>
       <div class="col">
-        <input type="date" class="form-control" id="inputMinMag" v-model="sharedstate.minMag"/>
+        <input type="number" class="form-control" id="inputMinMag" v-model="sharedstate.minMag"/>
       </div>
     </div>
     <div class="form-group row">
       <label for="inputMaxMag" class="col col-form-label">Max Magnitude</label>
       <div class="col">
-        <input type="date" class="form-control" id="inputMaxMag" v-model="sharedstate.maxMag"/>
+        <input type="number" class="form-control" id="inputMaxMag" v-model="sharedstate.maxMag"/>
       </div>
     </div>
     <div class="form-group row">
